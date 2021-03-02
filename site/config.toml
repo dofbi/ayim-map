@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "fr-fr"
+languageLang = "fr"
 title = "AYIM"
 
 # RSS, categories and tags disabled for an easy start
